@@ -1,0 +1,1 @@
+ALL_SYMBOLS='https://api.exchangerate.host/symbols'
